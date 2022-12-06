@@ -1,6 +1,7 @@
 # DIO-Desafio-Github
 Desafio de projeto sobre Git/Github - Bootcamp
 
+Repositório que serve apenas de teste para comandos no Git Bash.
 
 ##Links úteis.
 
