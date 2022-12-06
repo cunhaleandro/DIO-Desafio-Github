@@ -1,1 +1,2 @@
-https://comandosgit.github.io
+Para entender melhor os comandos do Git Bash. 
+Link: https://comandosgit.github.io
